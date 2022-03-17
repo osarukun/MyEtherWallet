@@ -126,7 +126,7 @@
     "minizlib": "2.1.2",
     "multicoin-address-validator": "0.4.5",
     "node-fetch": "2.6.1",
-    "node-sass": "6.0.1",
+    "node-sass": "7.0.0",
     "postcss-import": "12.0.1",
     "postcss-url": "8.0.0",
     "prettier": "2.4.1",
